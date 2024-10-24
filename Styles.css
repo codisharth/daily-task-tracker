@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333399;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+#taskChart {
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+}
